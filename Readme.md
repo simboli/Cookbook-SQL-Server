@@ -1,5 +1,5 @@
 # SQL Server snippets and notes
-*updated 26/01/2022*
+*updated 27/01/2022*
 
 - [How to make a pivot table (with fixed columns) in SQL Server](https://www.simboli.eu/p.php?URL_short=SQL_Server_PIVOT_fixed_columns) (*last update 2021-06-23 21:37:26*)
 - [How to make a pivot table (with dynamic columns) in SQL Server](https://www.simboli.eu/p.php?URL_short=SQL_Server_PIVOT_dynamic_columns) (*last update 2021-06-23 21:39:42*)
